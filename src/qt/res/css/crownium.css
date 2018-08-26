@@ -829,7 +829,7 @@ QWidget .QFrame#frame .QLabel#labelBalanceText { /* Available Balance Label */
 qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
 background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #000000, stop: .4 #444444, stop: .6 #444444, stop: 1 #000000);
-color:#ffffff;
+color:#47aae3;
 margin-right:5px;
 padding-right:5px;
 font-weight:bold;
@@ -841,7 +841,7 @@ QWidget .QFrame#frame .QLabel#labelBalance { /* Available Balance */
 qproperty-alignment: 'AlignVCenter | AlignLeft';
 font-size:12px;
 font-weight:bold;
-color:#000000;
+color:#47aae3;
 margin-left:0px;
 }
 
@@ -933,7 +933,7 @@ qproperty-alignment: 'AlignVCenter | AlignRight';
 min-width:160px;
 background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #000000, stop: .4 #444444, stop: .6 #444444, stop: 1 #000000);
 /* border:3px outset #888888; */
-color:#ffffff;
+color:#47aae3;
 margin-right:5px;
 padding-right:5px;
 font-weight:bold;
@@ -1037,7 +1037,7 @@ qproperty-alignment: 'AlignVCenter | AlignCenter';
 min-width: 288px;
 min-height: 43px;
 font-size:11px;
-color:#222222;
+color:#47aae3;
 }
 
 /* PRIVATESEND BUTTONS */
@@ -1054,7 +1054,7 @@ outline:none;
 QWidget .QFrame#framePrivateSend .QPushButton#togglePrivateSend { /* Start PrivateSend Mixing */
 font-size:15px;
 font-weight:bold;
-color:#000000;
+color:#47aae3;
 padding-left:10px;
 padding-right:10px;
 padding-top:5px;
@@ -1132,7 +1132,7 @@ background-repeat:none;
 
 QWidget .QFrame#frame_2 .QLabel#label_4 { /* Recent Transactions Label */
 min-width:180px;
-color:#333333;
+color:#47aae3;
 margin-left:67px;
 margin-top:83px;
 margin-right:5px;
@@ -1155,7 +1155,7 @@ QWidget .QFrame#frame_2 QListView { /* Transaction List */
 font-weight:normal;
 font-size:12px;
 max-width:369px;
-color:#333333;
+color:#47aae3;
 margin-top:12px;
 margin-left:0px; /* CSS Voodoo - set to -66px to hide default transaction icons */
 }
